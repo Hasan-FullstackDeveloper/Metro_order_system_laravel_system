@@ -1,0 +1,20 @@
+[15-Feb-2023 00:32:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[15-Feb-2023 00:32:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[15-Feb-2023 00:32:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[15-Feb-2023 00:38:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[17-May-2023 07:00:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7

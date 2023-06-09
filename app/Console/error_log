@@ -1,0 +1,8 @@
+[15-Feb-2023 00:34:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/app/Console/Kernel.php on line 8
+[17-Feb-2023 09:53:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/app/Console/Kernel.php on line 8

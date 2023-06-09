@@ -1,0 +1,16 @@
+[15-Feb-2023 00:31:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/routes/web.php on line 29
+[15-Feb-2023 00:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/routes/channels.php on line 16
+[15-Feb-2023 00:32:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/routes/console.php on line 17
+[15-Feb-2023 00:36:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/routes/api.php on line 17

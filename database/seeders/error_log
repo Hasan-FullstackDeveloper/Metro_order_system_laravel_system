@@ -1,0 +1,4 @@
+[15-Feb-2023 00:33:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/database/seeders/DatabaseSeeder.php on line 7

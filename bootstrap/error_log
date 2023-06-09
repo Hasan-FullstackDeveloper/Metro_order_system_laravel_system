@@ -1,0 +1,4 @@
+[15-Feb-2023 00:35:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/bootstrap/app.php on line 14

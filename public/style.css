@@ -1,0 +1,33 @@
+/* Sidebar  */
+.sidebar .nav.sub-menu {
+    padding: 0.25rem 0 0 1.5rem;
+}
+
+.navbar .navbar-brand-wrapper .navbar-brand img {
+    height: 50px;
+}
+
+.table td,
+.jsgrid .jsgrid-table td {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.footer {
+    background-color: #8a0b15;
+    color: white;
+    font-size: 16px;
+}
+
+.card h3.cform-title {
+    color: #8a0b15;
+    font-weight: 700;
+    max-width: max-content;
+    margin: 20px auto 60px;
+    border-bottom: 4px solid #c9c9c9;
+}
+
+.form-group label {
+    font-size: 0.95rem;
+    font-weight: 600;
+}

@@ -1,0 +1,4 @@
+[15-Feb-2023 00:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/dev.step2itsol.com/Metro_order_system_project/app/Exceptions/Handler.php on line 8
